@@ -1,0 +1,16 @@
+{
+    "jupyter-lite-schema-version": 0,
+    "jupyter-config-data": {
+        "appName": "JupyterLite",
+        "litePluginSettings": {
+            "@jupyterlite/contents": {
+                "contents": [
+                    {
+                        "path": "YFinancePractice.ipynb",
+                        "format": "notebook"
+                    }
+                ]
+            }
+        }
+    }
+}
